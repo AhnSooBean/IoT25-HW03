@@ -1,7 +1,7 @@
 # Read Analog Values with Arduino IDE
-<img width="1272" alt="HW03 screenshot" src="https://github.com/user-attachments/assets/c68d5638-6d76-45ec-9716-82b0a79aa7e6" />
-![HW03 picture](https://github.com/user-attachments/assets/a204b40c-1199-405d-af8a-ebb6ec366a55)
+<img width="1272" alt="HW03 screenshot" src="https://github.com/user-attachments/assets/b337480f-50b4-4686-83e4-dfa7e8f25b33" />
+![HW03 picture](https://github.com/user-attachments/assets/b2da6780-5499-44cd-9e79-b8449a996461)
 
 
-https://github.com/user-attachments/assets/c9e07ab6-8b92-4b47-8958-ea593280d9da
+https://github.com/user-attachments/assets/a123d9d1-58f6-4529-8695-5f6893de6556
 
